@@ -20,7 +20,7 @@ gTTS==2.2.3
 huggingface-hub==0.4.0
 idna==3.3
 Jinja2==3.0.3
-joblib==1.1.0
+joblib==1.2.0
 langcodes==3.3.0
 lazyme==0.0.27
 librosa==0.9.0
